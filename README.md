@@ -43,3 +43,8 @@
 - **使用说明.md**：中文操作步骤。
 - **USER_GUIDE_EN.md**：English user guide.
 - **生成图标.ps1**、**FileLockHelper.ico**、**FileLockHelper.png**：图标生成脚本和图标文件。
+
+
+## 许可证
+
+本项目按 MIT License 发布，详见 [LICENSE](LICENSE)。

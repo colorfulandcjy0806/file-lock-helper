@@ -43,3 +43,8 @@ See the [English user guide](USER_GUIDE_EN.md) or the [Chinese user guide](使�
 - **使用说明.md**: Chinese user guide.
 - **USER_GUIDE_EN.md**: English user guide.
 - **生成图标.ps1**, **FileLockHelper.ico**, and **FileLockHelper.png**: icon generation script and icon assets.
+
+
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE).
