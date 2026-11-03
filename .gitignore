@@ -1,0 +1,14 @@
+# Machine-specific launcher and local runtime output
+*.lnk
+startup.stdout.txt
+startup.stderr.txt
+
+# Local activity logs
+activity.log
+*.log
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
